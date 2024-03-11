@@ -19,7 +19,7 @@ const Headers = () => {
 
     // logoout
     const logout = ()=>{
-        window.open("http://localhost:5000/logout","_self")
+        window.open("http://localhost:50000/logout","_self")
     }
 
     useEffect(() => {
